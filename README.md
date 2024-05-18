@@ -8,7 +8,7 @@ I love to write code and as well drink coffee
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [lukmanuthman135@gmail.com](mailto:lukmanuthman135@gmail.com)
-* 🚀  I'm currently working on [Bestowal Crowd-Funding-platform](http://github.com/lukmanuthmanabubakr/bestowals)
+* 🚀  I'm currently working on [Bestowal Crowd-Funding-platform](https://github.com/lukmanuthmanabubakr/Mern-blog)
 * 🧠  I'm learning Web3,Solidity and smart contract
 * 🤝  I'm open to collaborating on I am Open to collaborating to both web2 and web3 moneytizing project
 * ⚡  As a developer, remember that every line of code you write is a step forward in your journey of mastering your craft. Embrace the challenges, celebrate the victories, and never underestimate the power of persistence. Your dedication to learning and improving will pave the way to success. Stay curious, stay passionate, and keep coding!
